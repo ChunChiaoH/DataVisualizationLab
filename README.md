@@ -1,2 +1,2 @@
 # DataVisualizationLab
-This is a dataset with synthetic data for demonstration purpose only.
+The dataset contains synthetic data and is for demonstration purpose only.
